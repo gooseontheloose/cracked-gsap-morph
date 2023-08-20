@@ -10,6 +10,10 @@ This example demonstrates how character codes and plugin scripts can be used in 
 - This code is for educational purposes only and should not be used for unauthorized activities.
 - Always support developers and respect their licenses and terms of use for any libraries or plugins.
 
+### Area To Look For
+
+To start off were going to be searching for this section of the code
+
 ### Allowed Site List
 
 In the provided script, an allowed site list is defined by an array of character codes that spell out the domain name. For instance, `greensock.com` is represented as:
