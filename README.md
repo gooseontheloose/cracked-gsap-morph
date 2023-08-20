@@ -14,6 +14,11 @@ This example demonstrates how character codes and plugin scripts can be used in 
 
 To start off were going to be searching for this section of the code
 
+```
+e = 0 === (u ? window.location.href : "").indexOf(p(102, 105, 108, 101, 58, 47, 47)) || -1 !== D.indexOf(p(108, 111, 99, 97, 108, 104, 111, 115, 116)) || h.test(D),
+t = [a, currentSite, p(99, 111, 100, 101, 112, 101, 110, 46, 105, 111), p(99, 111, 100, 101, 112, 101, 110, 46, 112, 108, 117, 109, 98, 105, 110, 103), p(99, 111, 100, 101, 112, 101, 110, 46, 100, 101, 118)]
+```
+
 ### Allowed Site List
 
 In the provided script, an allowed site list is defined by an array of character codes that spell out the domain name. For instance, `greensock.com` is represented as:
