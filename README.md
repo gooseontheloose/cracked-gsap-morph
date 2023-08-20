@@ -39,7 +39,7 @@ The script checks whether the current site's domain matches any of the allowed d
 
 ```
 currentSite = 'example.site';
-t = [a, currentSite, p(99, 111, 100, 101, 112, 101, 110, 46, 105, 111),
+r = [l, currentSite, p(99, 111, 100, 101, 112, 101, 110, 46, 105, 111),
 ```
 
 
