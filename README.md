@@ -1,5 +1,5 @@
 # cracked-gsap-morph
-dont arrest me please. doesnt actually work, it only rermoves the buy gsap screen.
+dont arrest me please. doesnt actually work, it only removes the buy gsap screen.
 
 ## GSAP Plugin Usage
 
