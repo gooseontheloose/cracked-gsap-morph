@@ -1,4 +1,6 @@
 # cracked-gsap-morph
+dont arrest me please. doesnt actually work, it only rermoves the buy gsap screen.
+
 ## GSAP Plugin Usage
 
 This example demonstrates how character codes and plugin scripts can be used in combination with the GreenSock Animation Platform (GSAP) library to check the current website's domain and restrict certain functionality based on specific domains.
